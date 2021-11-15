@@ -42,6 +42,11 @@ namespace Ejemplo1Herencia
             Console.WriteLine("El resultado de la suma es: "+(Resultado=Valor1+Valor2));
         }
     }
+
+    class Resta:Operacion
+    {
+
+    }
     class Program
     {
         static void Main(string[] args)
