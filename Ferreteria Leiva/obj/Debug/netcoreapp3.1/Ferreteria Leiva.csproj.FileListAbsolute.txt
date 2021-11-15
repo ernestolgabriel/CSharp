@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.exe
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.deps.json
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.dll
+C:\Users\Usuario\source\repos\Ferreteria Leiva\bin\Debug\netcoreapp3.1\Ferreteria Leiva.pdb
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.dll
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.pdb
+C:\Users\Usuario\source\repos\Ferreteria Leiva\obj\Debug\netcoreapp3.1\Ferreteria Leiva.genruntimeconfig.cache

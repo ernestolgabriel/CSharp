@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.exe
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.deps.json
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.runtimeconfig.json
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.dll
+C:\Users\Usuario\source\repos\Segundos en Número de Días\bin\Debug\netcoreapp3.1\Segundos en Número de Días.pdb
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.dll
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.pdb
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Segundos en Número de Días\obj\Debug\netcoreapp3.1\Segundos en Número de Días.csproj.AssemblyReference.cache

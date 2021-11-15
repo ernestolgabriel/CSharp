@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.exe
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.deps.json
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.dll
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\bin\Debug\netcoreapp3.1\Sueldo de un Trabajador.pdb
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.dll
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.pdb
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Sueldo de un Trabajador\obj\Debug\netcoreapp3.1\Sueldo de un Trabajador.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.exe
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.deps.json
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.dll
+C:\Users\Usuario\source\repos\Circulo\bin\Debug\netcoreapp3.1\Circulo.pdb
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.dll
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.pdb
+C:\Users\Usuario\source\repos\Circulo\obj\Debug\netcoreapp3.1\Circulo.genruntimeconfig.cache

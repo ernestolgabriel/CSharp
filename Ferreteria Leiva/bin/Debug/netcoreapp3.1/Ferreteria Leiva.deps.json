@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ferreteria Leiva/1.0.0": {
+        "runtime": {
+          "Ferreteria Leiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ferreteria Leiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.exe
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.deps.json
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.runtimeconfig.json
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.dll
+C:\Users\Usuario\source\repos\CDeportista\bin\Debug\netcoreapp3.1\CDeportista.pdb
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.dll
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.pdb
+C:\Users\Usuario\source\repos\CDeportista\obj\Debug\netcoreapp3.1\CDeportista.genruntimeconfig.cache

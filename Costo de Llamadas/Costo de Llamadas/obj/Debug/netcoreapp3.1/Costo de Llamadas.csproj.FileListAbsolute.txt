@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.exe
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.deps.json
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.runtimeconfig.json
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.dll
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\bin\Debug\netcoreapp3.1\Costo de Llamadas.pdb
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.dll
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.pdb
+C:\Users\Usuario\source\repos\Costo de Llamadas\Costo de Llamadas\obj\Debug\netcoreapp3.1\Costo de Llamadas.genruntimeconfig.cache

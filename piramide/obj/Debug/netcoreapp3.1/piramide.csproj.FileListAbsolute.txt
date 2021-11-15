@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.exe
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.deps.json
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.runtimeconfig.json
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.dll
+C:\Users\Usuario\source\repos\piramide\bin\Debug\netcoreapp3.1\piramide.pdb
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.dll
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.pdb
+C:\Users\Usuario\source\repos\piramide\obj\Debug\netcoreapp3.1\piramide.genruntimeconfig.cache

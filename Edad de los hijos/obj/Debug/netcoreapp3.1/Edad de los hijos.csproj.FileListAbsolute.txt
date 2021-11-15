@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.exe
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.deps.json
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.runtimeconfig.json
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.dll
+C:\Users\Usuario\source\repos\Edad de los hijos\bin\Debug\netcoreapp3.1\Edad de los hijos.pdb
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.dll
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.pdb
+C:\Users\Usuario\source\repos\Edad de los hijos\obj\Debug\netcoreapp3.1\Edad de los hijos.genruntimeconfig.cache

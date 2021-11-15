@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.exe
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.deps.json
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.runtimeconfig.json
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.dll
+C:\Users\Usuario\source\repos\Número Par o Impar\bin\Debug\netcoreapp3.1\Número Par o Impar.pdb
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.dll
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.pdb
+C:\Users\Usuario\source\repos\Número Par o Impar\obj\Debug\netcoreapp3.1\Número Par o Impar.genruntimeconfig.cache

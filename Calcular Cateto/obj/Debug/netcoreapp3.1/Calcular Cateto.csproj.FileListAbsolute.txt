@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.exe
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.deps.json
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.runtimeconfig.json
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.dll
+C:\Users\Usuario\source\repos\Calcular Cateto\bin\Debug\netcoreapp3.1\Calcular Cateto.pdb
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.dll
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.pdb
+C:\Users\Usuario\source\repos\Calcular Cateto\obj\Debug\netcoreapp3.1\Calcular Cateto.genruntimeconfig.cache

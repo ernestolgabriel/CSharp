@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.exe
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.deps.json
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.dll
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\bin\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.pdb
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.dll
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.pdb
+C:\Users\Usuario\source\repos\Ejercicio Rsuelto If 1\obj\Debug\netcoreapp3.1\Ejercicio Rsuelto If 1.genruntimeconfig.cache

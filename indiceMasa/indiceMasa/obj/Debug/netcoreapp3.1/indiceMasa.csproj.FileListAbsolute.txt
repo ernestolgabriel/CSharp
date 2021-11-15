@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.exe
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.deps.json
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.runtimeconfig.json
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.dll
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\bin\Debug\netcoreapp3.1\indiceMasa.pdb
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.dll
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.pdb
+C:\Users\Usuario\source\repos\indiceMasa\indiceMasa\obj\Debug\netcoreapp3.1\indiceMasa.genruntimeconfig.cache

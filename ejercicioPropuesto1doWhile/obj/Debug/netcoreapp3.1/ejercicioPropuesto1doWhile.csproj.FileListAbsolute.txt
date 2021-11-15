@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.exe
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.deps.json
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.runtimeconfig.json
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.dll
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\bin\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.pdb
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.dll
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.pdb
+C:\Users\Usuario\source\repos\ejercicioPropuesto1doWhile\obj\Debug\netcoreapp3.1\ejercicioPropuesto1doWhile.genruntimeconfig.cache

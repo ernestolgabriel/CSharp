@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.exe
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.deps.json
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.runtimeconfig.json
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.dll
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\bin\Debug\netcoreapp3.1\cuadrado vacio asteriscos.pdb
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.dll
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.pdb
+C:\Users\Usuario\source\repos\cuadrado vacio asteriscos\obj\Debug\netcoreapp3.1\cuadrado vacio asteriscos.genruntimeconfig.cache

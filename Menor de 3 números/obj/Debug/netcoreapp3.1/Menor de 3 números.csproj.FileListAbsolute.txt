@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.exe
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.deps.json
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.runtimeconfig.json
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.dll
+C:\Users\Usuario\source\repos\Menor de 3 números\bin\Debug\netcoreapp3.1\Menor de 3 números.pdb
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.dll
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.pdb
+C:\Users\Usuario\source\repos\Menor de 3 números\obj\Debug\netcoreapp3.1\Menor de 3 números.genruntimeconfig.cache

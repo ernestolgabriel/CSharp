@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.exe
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.deps.json
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.runtimeconfig.json
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.dll
+C:\Users\Usuario\source\repos\primera aplicación\bin\Debug\netcoreapp3.1\primera aplicación.pdb
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.dll
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.pdb
+C:\Users\Usuario\source\repos\primera aplicación\obj\Debug\netcoreapp3.1\primera aplicación.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Costo de Productos/1.0.0": {
+        "runtime": {
+          "Costo de Productos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Costo de Productos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.exe
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.deps.json
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.runtimeconfig.json
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.dll
+C:\Users\Usuario\source\repos\Descuento de Producto\bin\Debug\netcoreapp3.1\Descuento de Producto.pdb
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.dll
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.pdb
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Descuento de Producto\obj\Debug\netcoreapp3.1\Descuento de Producto.csproj.AssemblyReference.cache
