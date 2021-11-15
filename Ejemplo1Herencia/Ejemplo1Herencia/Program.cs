@@ -45,13 +45,29 @@ namespace Ejemplo1Herencia
 
     class Resta:Operacion
     {
+        public void OperacionResta()
+        {
+            Console.WriteLine("Ingrese el valor de la primera cantidad");
+            Valor1 = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Ingrese el valor de la segunda cantidad");
+            Valor2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("El resultado de la resta es: " + (Resultado=Valor1-Valor2));
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Suma suma1 = new Suma();    //instancia de la clase Suma
+            suma1.OperacionSuma();
+
+            Resta resta1 = new Resta();
+            resta1.OperacionResta();
+
+            Console.WriteLine("Pulse una tecla para continuar");
+            Console.ReadKey();
         }
     }
 }

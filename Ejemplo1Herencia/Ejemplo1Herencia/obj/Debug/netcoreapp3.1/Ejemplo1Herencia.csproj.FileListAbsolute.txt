@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.exe
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.deps.json
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.dll
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\bin\Debug\netcoreapp3.1\Ejemplo1Herencia.pdb
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.dll
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.pdb
+C:\Users\Usuario\source\repos\Ejemplo1Herencia\Ejemplo1Herencia\obj\Debug\netcoreapp3.1\Ejemplo1Herencia.genruntimeconfig.cache
