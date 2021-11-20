@@ -103,20 +103,100 @@ namespace ClaseAnimales
     //Clase Ave derivada de la clase Animal
     class Ave:Animal
     {
-        string colorPlumaje;
-        double altumaMaximaVuelo;
+        protected string colorPlumaje;
+        protected double altumaMaximaVuelo;
+        
+        public string ColorPlumaje
+        {
+            get { return colorPlumaje; }
+            set { colorPlumaje = value; }
+        }
+
+        public double AlturaMaximaVuelo
+        {
+            get { return altumaMaximaVuelo; }
+            set { altumaMaximaVuelo = value; }
+        }
+
+        public Ave(string especie,string nombre, double peso, int jaula):base(especie,nombre,peso,jaula)
+        {
+            Console.WriteLine("Cual es el color del plumaje");
+            ColorPlumaje = Console.ReadLine();
+
+            Console.WriteLine("Altura maxima a la que vuela");
+            AlturaMaximaVuelo = double.Parse(Console.ReadLine());
+        }
+
+        public override void QueClaseDeAnimalEs()
+        {
+            Console.WriteLine("\n Soy un ave llamada: "+Nombre);
+            Console.WriteLine("de la especie: "+Especie);
+            Console.WriteLine("Peso en Kilogramos es: "+Peso);
+            Console.WriteLine("Estoy en la jaula: "+Jaula);
+        }
+
     }
 
     //Clase Insecto derivada de la clase Animal
     class Insecto:Animal
     {
-        Boolean vuela;
+        protected bool vuela;
+
+        //propiedad Vuela
+        public bool Vuela
+        {
+            get { return vuela; }
+            set { vuela = value; }
+        }
+
+        public Insecto(string especie,string nombre,double peso,int jaula):base(especie,nombre,peso,jaula)
+        {
+            int valor = 0;
+
+            Console.WriteLine("Vuela? SI=1 NO=0");
+            valor = int.Parse(Console.ReadLine());
+
+            if (valor == 1)
+                Vuela = true;
+            else
+                Vuela = false;
+        }
+
+        public override void QueClaseDeAnimalEs()
+        {
+            Console.WriteLine("\nSoy un insecto llamado: "+Nombre);
+            Console.WriteLine("de la especie: "+Especie);
+            Console.WriteLine("Peso en KiloGramos: "+Peso);
+            Console.WriteLine("Estoy en la jaula: "+Jaula);
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //el menu se pone en pantalla
+            int opcion;
+
+            Console.WriteLine("Estas son las opciones");
+            Console.WriteLine("1. Datos del Mamifero");
+            Console.WriteLine("2. Datos de la Ave");
+            Console.WriteLine("3. Datos del Insecto");
+            Console.WriteLine("4. Salir del Sistema");
+            opcion = int.Parse(Console.ReadLine());
+
+            switch(opcion)
+            {
+                case 1:
+                    Animal animal1 = new Animal();
+                    Mamifero mamifero1 = new Mamifero(animal1.Especie, animal1.Nombre, animal1.Peso, animal1.Jaula);
+                    mamifero1.QueClaseDeAnimalEs();
+                    break;
+
+                case 2:
+                    Animal animal2 = new Animal();
+                    Ave ave2 = new Ave()
+            }
+
         }
     }
 }
