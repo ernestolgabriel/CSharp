@@ -61,18 +61,43 @@ namespace ClaseAnimales
             this.jaula = jaula;
         }
 
-
-
-        public void queClaseDeAnimalEs()
+        //metodo virtual que puede ser reutilizado por las clases hijas
+        public virtual void QueClaseDeAnimalEs()
         {
-
+            Console.WriteLine("Soy un mamifero llamado: "+Nombre);
+            Console.WriteLine("de la especie: "+Especie);
+            Console.WriteLine("Peso en KiloGramos: "+Peso);
+            Console.WriteLine("Estoy en la jaula "+Jaula);
         }
     }
 
     //Clase Mamifero derivda de la clase Animal
     class Mamifero:Animal
     {
-        string tipoMamifero;
+        // declaración de atributos protegidos
+        protected string tipoMamifero;
+
+        //declaración de propiedad tipo de mamifero
+
+        public string TipoMamifero
+        {
+            get { return tipoMamifero; }
+            set { tipoMamifero = value; }
+        }
+        //contructor con parámetros de la clase mamífero hace la llamada primero al contructor del padre
+        public Mamifero(string especie, string nombre, double peso, int jaula):base(especie,nombre,peso,jaula)
+        {
+            Console.WriteLine("\nTipo de mamifero: ");
+            TipoMamifero = Console.ReadLine();
+        }
+
+        public override void QueClaseDeAnimalEs()
+        {
+            Console.WriteLine("Soy un mamifero llamado: " + Nombre);
+            Console.WriteLine("de la especie: " + Especie);
+            Console.WriteLine("Peso en KiloGramos: " + Peso);
+            Console.WriteLine("Estoy en la jaula " + Jaula);
+        }
     }
 
     //Clase Ave derivada de la clase Animal
