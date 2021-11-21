@@ -39,7 +39,7 @@ namespace ClaseAnimales
         public Animal()
         {
             Console.WriteLine("****Introduce los datos del animal****");
-            Console.Write("Nombre: ");
+            Console.Write("\nNombre: ");
             Nombre = Console.ReadLine();
 
             Console.Write("\nEspecie a la que pertenece: ");
@@ -64,7 +64,7 @@ namespace ClaseAnimales
         //metodo virtual que puede ser reutilizado por las clases hijas
         public virtual void QueClaseDeAnimalEs()
         {
-            Console.WriteLine("Soy un mamifero llamado: "+Nombre);
+            Console.WriteLine("\n\nSoy un mamifero llamado: "+Nombre);
             Console.WriteLine("de la especie: "+Especie);
             Console.WriteLine("Peso en KiloGramos: "+Peso);
             Console.WriteLine("Estoy en la jaula "+Jaula);
@@ -93,7 +93,7 @@ namespace ClaseAnimales
 
         public override void QueClaseDeAnimalEs()
         {
-            Console.WriteLine("Soy un mamifero llamado: " + Nombre);
+            Console.WriteLine("\n\nSoy un mamifero llamado: " + Nombre);
             Console.WriteLine("de la especie: " + Especie);
             Console.WriteLine("Peso en KiloGramos: " + Peso);
             Console.WriteLine("Estoy en la jaula " + Jaula);
@@ -120,16 +120,16 @@ namespace ClaseAnimales
 
         public Ave(string especie,string nombre, double peso, int jaula):base(especie,nombre,peso,jaula)
         {
-            Console.WriteLine("Cual es el color del plumaje");
+            Console.WriteLine("\nCual es el color del plumaje");
             ColorPlumaje = Console.ReadLine();
 
-            Console.WriteLine("Altura maxima a la que vuela");
+            Console.WriteLine("\nAltura maxima a la que vuela (en metros)");
             AlturaMaximaVuelo = double.Parse(Console.ReadLine());
         }
 
         public override void QueClaseDeAnimalEs()
         {
-            Console.WriteLine("\n Soy un ave llamada: "+Nombre);
+            Console.WriteLine("\n\nSoy un ave llamada: "+Nombre);
             Console.WriteLine("de la especie: "+Especie);
             Console.WriteLine("Peso en Kilogramos es: "+Peso);
             Console.WriteLine("Estoy en la jaula: "+Jaula);
@@ -141,7 +141,7 @@ namespace ClaseAnimales
     class Insecto:Animal
     {
         protected bool vuela;
-
+        protected int valor=0;
         //propiedad Vuela
         public bool Vuela
         {
@@ -151,52 +151,72 @@ namespace ClaseAnimales
 
         public Insecto(string especie,string nombre,double peso,int jaula):base(especie,nombre,peso,jaula)
         {
-            int valor = 0;
-
             Console.WriteLine("Vuela? SI=1 NO=0");
             valor = int.Parse(Console.ReadLine());
 
             if (valor == 1)
-                Vuela = true;
+               Vuela = true;
             else
-                Vuela = false;
+               Vuela = false;           
+           
         }
 
         public override void QueClaseDeAnimalEs()
         {
-            Console.WriteLine("\nSoy un insecto llamado: "+Nombre);
+            Console.WriteLine("\n\nSoy un insecto llamado: "+Nombre);
             Console.WriteLine("de la especie: "+Especie);
-            Console.WriteLine("Peso en KiloGramos: "+Peso);
+            Console.WriteLine("Peso en Gramos: "+Peso);
             Console.WriteLine("Estoy en la jaula: "+Jaula);
+            if (valor == 1)
+                Console.WriteLine("Soy capaz de Volar");
+            else
+                Console.WriteLine("No soy capaz de Volar");
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            //el menu se pone en pantalla
+            // menu en pantalla
             int opcion;
-
-            Console.WriteLine("Estas son las opciones");
-            Console.WriteLine("1. Datos del Mamifero");
-            Console.WriteLine("2. Datos de la Ave");
-            Console.WriteLine("3. Datos del Insecto");
-            Console.WriteLine("4. Salir del Sistema");
-            opcion = int.Parse(Console.ReadLine());
-
-            switch(opcion)
+            do
             {
-                case 1:
-                    Animal animal1 = new Animal();
-                    Mamifero mamifero1 = new Mamifero(animal1.Especie, animal1.Nombre, animal1.Peso, animal1.Jaula);
-                    mamifero1.QueClaseDeAnimalEs();
-                    break;
+                Console.WriteLine("\n\nBienvenido al menú");
+                Console.WriteLine("Estas son las opciones");
+                Console.WriteLine("1. Datos del Mamifero");
+                Console.WriteLine("2. Datos de la Ave");
+                Console.WriteLine("3. Datos del Insecto");
+                Console.WriteLine("4. Salir del Sistema");
+                opcion = int.Parse(Console.ReadLine());
 
-                case 2:
-                    Animal animal2 = new Animal();
-                    Ave ave2 = new Ave()
-            }
+                switch (opcion)
+                {
+                    case 1:
+                        Animal animal1 = new Animal();
+                        Mamifero mamifero1 = new Mamifero(animal1.Especie, animal1.Nombre, animal1.Peso, animal1.Jaula);
+                        mamifero1.QueClaseDeAnimalEs();
+                        break;
 
+                    case 2:
+                        Animal animal2 = new Animal();
+                        Ave ave = new Ave(animal2.Especie, animal2.Nombre, animal2.Peso, animal2.Jaula);
+                        ave.QueClaseDeAnimalEs();
+                        break;
+
+                    case 3:
+                        Animal animal3 = new Animal();
+                        Insecto insecto = new Insecto(animal3.Especie, animal3.Nombre, animal3.Peso, animal3.Jaula);
+                        insecto.QueClaseDeAnimalEs();
+                        break;
+
+                    default:
+                        Console.WriteLine("Ingrese una opción válida");
+                        break;
+                }
+            } while (opcion != 4);
+
+            Console.WriteLine("Pulsa una tecla para salir");
+            Console.ReadKey();
         }
     }
 }

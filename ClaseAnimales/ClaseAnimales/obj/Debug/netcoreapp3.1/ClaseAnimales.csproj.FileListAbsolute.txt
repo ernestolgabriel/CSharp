@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.exe
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.deps.json
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.runtimeconfig.json
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.dll
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\bin\Debug\netcoreapp3.1\ClaseAnimales.pdb
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.dll
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.pdb
+C:\Users\Usuario\source\repos\ClaseAnimales\ClaseAnimales\obj\Debug\netcoreapp3.1\ClaseAnimales.genruntimeconfig.cache
