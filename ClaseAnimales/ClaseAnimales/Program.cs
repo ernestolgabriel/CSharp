@@ -6,9 +6,9 @@ namespace ClaseAnimales
     class Animal
     {
         //Atributos protegidos visibles en las clases hijas
-        protected string especie, nombre;
-        protected double peso;
-        protected int jaula;
+        private string especie, nombre;
+        private double peso;
+        private int jaula;
 
         //Propiedades para acceder a los miembros protegidos de la clase
         public string Especie
@@ -16,6 +16,7 @@ namespace ClaseAnimales
             get { return especie; }
             set { especie = value; }
         }
+
 
         public string Nombre
         {
