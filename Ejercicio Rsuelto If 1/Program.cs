@@ -13,6 +13,9 @@ namespace Ejercicio_Rsuelto_If_1
                 Console.WriteLine(numero1 + " es divisible por "+numero2);
             else
                 Console.WriteLine(numero1 + " no es divisible por "+ numero2);
+            
+            /* este es un comentario de fin de archivo
+            /* para probar una edicion desde github
 
         }
     }
