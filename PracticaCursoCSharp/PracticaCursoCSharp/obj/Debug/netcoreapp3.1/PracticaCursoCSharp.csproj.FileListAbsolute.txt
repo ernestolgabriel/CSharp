@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.exe
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.deps.json
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.runtimeconfig.json
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.dll
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\bin\Debug\netcoreapp3.1\PracticaCursoCSharp.pdb
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.dll
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.pdb
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PracticaCursoCSharp\PracticaCursoCSharp\obj\Debug\netcoreapp3.1\PracticaCursoCSharp.csproj.AssemblyReference.cache
