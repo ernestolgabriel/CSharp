@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Carro\\Carro\\Carro.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Carro\\Carro\\Carro.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Carro\\Carro\\Carro.csproj",
-        "projectName": "Carro",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Carro\\Carro\\Carro.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj",
+        "projectName": "ConceptosPOO",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Carro\\Carro\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

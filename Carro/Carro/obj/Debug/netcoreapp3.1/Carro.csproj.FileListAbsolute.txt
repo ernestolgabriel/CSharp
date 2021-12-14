@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.exe
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.deps.json
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.runtimeconfig.json
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.dll
+C:\Users\Usuario\source\repos\Carro\Carro\bin\Debug\netcoreapp3.1\Carro.pdb
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.dll
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.pdb
+C:\Users\Usuario\source\repos\Carro\Carro\obj\Debug\netcoreapp3.1\Carro.genruntimeconfig.cache

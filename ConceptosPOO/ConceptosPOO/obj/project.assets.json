@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\PracticaCursoCSharp\\PracticaCursoCSharp\\PracticaCursoCSharp.csproj",
-      "projectName": "PracticaCursoCSharp",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\PracticaCursoCSharp\\PracticaCursoCSharp\\PracticaCursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj",
+      "projectName": "ConceptosPOO",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\ConceptosPOO.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\PracticaCursoCSharp\\PracticaCursoCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\ConceptosPOO\\ConceptosPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
